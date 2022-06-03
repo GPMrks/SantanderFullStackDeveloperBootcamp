@@ -116,7 +116,7 @@
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/lab_projects/badges/cb2ecdb8-15dc-460a-a9a7-1e43a9c1c581.png" alt="Imagem do bootcamp Introdução Prática ao TypeScript" width="50"></td>
-    <td><b>Curso</b></td>
+    <td><b>Desafio de Projeto</b></td>
     <td><b>Introdução Prática ao TypeScript</b></td>
   </tr>
 </table>
