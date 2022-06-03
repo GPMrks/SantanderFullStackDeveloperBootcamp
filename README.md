@@ -119,6 +119,8 @@
   </tr>
 </table>
 
+<br><br>
+
 **Módulo III - Angular**
 
 <table>
@@ -184,6 +186,8 @@
   </tr>
 </table>
 
+<br><br>
+
 **Módulo IV - Java**
 
 <table>
@@ -243,6 +247,8 @@
     <td><b>Criando um Banco Digital com Java e Orientação a Objetos</b></td>
   </tr>
 </table>
+
+<br><br>
 
 **Módulo V - Spring Framework**
 
