@@ -58,9 +58,9 @@
     <td><b>Sintaxe e Operadores</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/881a50c9-351e-4cf0-86d4-3ca6ac4a7d22.png" alt="Imagem do bootcamp Trabalhando com Collections Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/881a50c9-351e-4cf0-86d4-3ca6ac4a7d22.png" alt="Imagem do bootcamp Explorando Padrões de Projetos na Prática com Java" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Trabalhando com Collections Java</b></td>
+    <td><b>Explorando Padrões de Projetos na Prática com Java</b></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/355ab077-57cd-4860-b385-7afaa497a77c.png" alt="Imagem do bootcamp Tratamento de Exceções em Java" width="50"></td>
@@ -123,34 +123,34 @@
 
 <table>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/4e771693-693c-4e3e-833c-f963ce9e65b8.png" alt="Imagem do bootcamp Dominando IDEs Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/4e771693-693c-4e3e-833c-f963ce9e65b8.png" alt="Imagem do bootcamp Conhecendo os Principais Protocolos de Comunicação da Internet" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Dominando IDEs Java</b></td>
+    <td><b>Conhecendo os Principais Protocolos de Comunicação da Internet</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/a0f861ae-7d9a-4862-9a6d-1343a754f2cf.png" alt="Imagem do bootcamp Variáveis, Tipos de Dados e Operadores Matemáticos em Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/a0f861ae-7d9a-4862-9a6d-1343a754f2cf.png" alt="Imagem do bootcamp Introdução ao framework Spring Boot" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Variáveis, Tipos de Dados e Operadores Matemáticos em Java</b></td>
+    <td><b>Introdução ao framework Spring Boot</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/41dcd3b9-7031-4e5a-8849-02a81fd067b2.png" alt="Imagem do bootcamp Entendendo Métodos Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/41dcd3b9-7031-4e5a-8849-02a81fd067b2.png" alt="Imagem do bootcamp Imersão no Spring Framework com Spring Boot" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Entendendo Métodos Java</b></td>
+    <td><b>Imersão no Spring Framework com Spring Boot</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/a40dfe0f-d4fe-455f-9a69-9c7904237ec4.png" alt="Imagem do bootcamp Lógica Condicional e Controle de Fluxos em Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/a40dfe0f-d4fe-455f-9a69-9c7904237ec4.png" alt="Imagem do bootcamp Adicionando Segurança a uma API REST com Spring Security" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Lógica Condicional e Controle de Fluxos em Java</b></td>
+    <td><b>Adicionando Segurança a uma API REST com Spring Security</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/3d445527-b3fd-4a1a-a3d0-e891b16e5468.png" alt="Imagem do bootcamp Estruturas de Repetição e Arrays em Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/3d445527-b3fd-4a1a-a3d0-e891b16e5468.png" alt="Imagem do bootcamp Desafios Intermediários Java - Santander Fullstack Developer" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Estruturas de Repetição e Arrays em Java</b></td>
+    <td><b>Desafios Intermediários Java - Santander Fullstack Developer</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/e6daff4c-e474-4ea2-8aca-b31e8a48ea81.png" alt="Imagem do bootcamp Trabalhando com Collections Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/e6daff4c-e474-4ea2-8aca-b31e8a48ea81.png" alt="Imagem do bootcamp Explorando Padrões de Projetos na Prática com Java" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Trabalhando com Collections Java</b></td>
+    <td><b>Explorando Padrões de Projetos na Prática com Java</b></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/82af06f5-2de5-4cc0-b2c2-f560bf925e15.png" alt="Imagem do bootcamp Tratamento de Exceções em Java" width="50"></td>
@@ -188,34 +188,34 @@
 
 <table>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/6c201cba-ff90-4a8e-8b08-77ec0ddcffe1.png" alt="Imagem do bootcamp Dominando IDEs Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/6c201cba-ff90-4a8e-8b08-77ec0ddcffe1.png" alt="Imagem do bootcamp Conhecendo os Principais Protocolos de Comunicação da Internet" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Dominando IDEs Java</b></td>
+    <td><b>Conhecendo os Principais Protocolos de Comunicação da Internet</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/f6876045-9350-4b83-af75-b455fd437d13.png" alt="Imagem do bootcamp Variáveis, Tipos de Dados e Operadores Matemáticos em Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/f6876045-9350-4b83-af75-b455fd437d13.png" alt="Imagem do bootcamp Introdução ao framework Spring Boot" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Variáveis, Tipos de Dados e Operadores Matemáticos em Java</b></td>
+    <td><b>Introdução ao framework Spring Boot</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/ca2d2b97-c1a6-40bc-b396-40896efb40f3.png" alt="Imagem do bootcamp Entendendo Métodos Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/ca2d2b97-c1a6-40bc-b396-40896efb40f3.png" alt="Imagem do bootcamp Imersão no Spring Framework com Spring Boot" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Entendendo Métodos Java</b></td>
+    <td><b>Imersão no Spring Framework com Spring Boot</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/0559b377-9f25-43a0-8e94-02b99b53216e.png" alt="Imagem do bootcamp Lógica Condicional e Controle de Fluxos em Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/0559b377-9f25-43a0-8e94-02b99b53216e.png" alt="Imagem do bootcamp Adicionando Segurança a uma API REST com Spring Security" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Lógica Condicional e Controle de Fluxos em Java</b></td>
+    <td><b>Adicionando Segurança a uma API REST com Spring Security</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/13c775a2-cadb-43b9-83c6-9718d4417625.png" alt="Imagem do bootcamp Estruturas de Repetição e Arrays em Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/13c775a2-cadb-43b9-83c6-9718d4417625.png" alt="Imagem do bootcamp Desafios Intermediários Java - Santander Fullstack Developer" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Estruturas de Repetição e Arrays em Java</b></td>
+    <td><b>Desafios Intermediários Java - Santander Fullstack Developer</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/b6be69f1-9af6-4606-91ca-df0157834afe.png" alt="Imagem do bootcamp Trabalhando com Collections Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/b6be69f1-9af6-4606-91ca-df0157834afe.png" alt="Imagem do bootcamp Explorando Padrões de Projetos na Prática com Java" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Trabalhando com Collections Java</b></td>
+    <td><b>Explorando Padrões de Projetos na Prática com Java</b></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/209896ec-db64-4685-8a0a-65862647c676.png" alt="Imagem do bootcamp Tratamento de Exceções em Java" width="50"></td>
@@ -244,5 +244,37 @@
   </tr>
 </table>
 
-🛠️**README EM CONSTRUÇÃO**
- 
+**Módulo V - Spring Framework**
+
+<table>
+  <tr>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/995e9d14-99e8-4879-b978-b1d961f3ad88.png" alt="Imagem do bootcamp Conhecendo os Principais Protocolos de Comunicação da Internet" width="50"></td>
+    <td><b>Curso</b></td>
+    <td><b>Conhecendo os Principais Protocolos de Comunicação da Internet</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/1dcc883a-37fa-42a9-a2a1-1cf012ffb34e.png" alt="Imagem do bootcamp Introdução ao framework Spring Boot" width="50"></td>
+    <td><b>Curso</b></td>
+    <td><b>Introdução ao framework Spring Boot</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/53b3769f-668b-4eb3-8c25-86d59d6a0f87.png" alt="Imagem do bootcamp Imersão no Spring Framework com Spring Boot" width="50"></td>
+    <td><b>Curso</b></td>
+    <td><b>Imersão no Spring Framework com Spring Boot</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/c76372f9-1b3e-4f58-8cc1-d57e3b33b4d6.png" alt="Imagem do bootcamp Adicionando Segurança a uma API REST com Spring Security" width="50"></td>
+    <td><b>Curso</b></td>
+    <td><b>Adicionando Segurança a uma API REST com Spring Security</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/92d879d5-7de3-44aa-a8a4-4e144cc565c1.png" alt="Imagem do bootcamp Desafios Intermediários Java - Santander Fullstack Developer" width="50"></td>
+    <td><b>Desafio de Código</b></td>
+    <td><b>Desafios Intermediários Java - Santander Fullstack Developer</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://hermes.digitalinnovation.one/lab_projects/badges/596aa9d8-34c0-4369-bb27-d2f00347f45e.png" alt="Imagem do bootcamp Explorando Padrões de Projetos na Prática com Java" width="50"></td>
+    <td><b>Desafio de Projeto</b></td>
+    <td><b>Explorando Padrões de Projetos na Prática com Java</b></td>
+  </tr>
+</table>
