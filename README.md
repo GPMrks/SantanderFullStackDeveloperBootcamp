@@ -134,7 +134,7 @@
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/41dcd3b9-7031-4e5a-8849-02a81fd067b2.png" alt="Imagem do bootcamp A arquitetura de componentes e a gestão da complexidade no front-end" width="50"></td>
-    <td><b>Desafio de Projeto</b></td>
+    <td><b>Curso</b></td>
     <td><b>A arquitetura de componentes e a gestão da complexidade no front-end</b></td>
   </tr>
   <tr>
