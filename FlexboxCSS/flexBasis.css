@@ -1,0 +1,37 @@
+.flex-container {
+    max-width: 500px;
+    border: 1px solid black;
+    display: flex;
+}
+
+.item {
+    background-color: coral;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.basis-auto {
+    flex-basis: auto;
+}
+
+.fg0 {
+    flex-grow: 0;
+}
+
+.fg1 {
+    flex-grow: 1;
+}
+
+.fg2 {
+    flex-grow: 2;
+}
+
+.basis-0 {
+    flex-basis: 0;
+}
+
+.w100 {
+    flex-basis: 100px;
+}
