@@ -16,16 +16,19 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/fdd7c4e5-655d-4ac4-9d2f-7d9ae00b7f82.png" alt="Imagem do bootcamp Introdução à Programação e Pensamento Computacional" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Introdução à Programação e Pensamento Computacional</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/c1f33b18-497b-408b-885f-ee8db71d872b.png" alt="Imagem do bootcamp Introdução ao Git e ao GitHub" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Introdução ao Git e GitHub</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/lab_projects/badges/581a907b-58d8-4ad2-b9c4-69d099267e1e.png" alt="Imagem do bootcamp Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso" width="50"></td>
     <td><b>Desafio de Projeto</b></td>
     <td><b>Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</b></td>
+    <td>✅</td>
   </tr>
 </table>
 
@@ -38,6 +41,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/28bfbf19-a31a-41a2-b78f-e70c0e18f37a.png" alt="Imagem do bootcamp Introdução a criação de websites com HTML5 e CSS3" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Introdução a criação de websites com HTML5 e CSS3</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/ba6c22a0-f55d-4968-a89b-d11eaf4db7c6.png" alt="Imagem do bootcamp Posicionando elementos com Flexbox em CSS" width="50"></td>
