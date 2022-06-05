@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - Flex Shrink</title>
+    <link rel="stylesheet" href="flexShrink.css">
+</head>
+<body>
+
+    <h2>Flex Shrink : 1</h2>
+
+    <div class="container">
+        <div class="item shrink-1 flex-grow1">A</div>
+        <div class="item shrink-1 flex-grow1">B</div>
+        <div class="item shrink-1 flex-grow1">C</div>
+        <div class="item shrink-1 flex-grow1">D</div>
+        <div class="item shrink-1 flex-grow1">E</div>
+    </div>
+
+    <div class="container">
+        <div class="item shrink-1 flex-grow1">A</div>
+        <div class="item shrink-1 flex-grow1">The generated</div>
+        <div class="item shrink-1 flex-grow1">C</div>
+        <div class="item shrink-1 flex-grow1">D</div>
+    </div>
+
+    <h2>Flex Shrink : 0 / Basis : 100px</h2>
+
+    <div class="container">
+        <div class="item shrink-0 flex-grow1">A</div>
+        <div class="item shrink-0 flex-grow1">The generated</div>
+        <div class="item shrink-0 flex-grow1">C generated</div>
+        <div class="item shrink-0 flex-grow1">D</div>
+    </div>
+
+    <h2>Flex Shrink : Mix / Basis : 100px</h2>
+
+    <div class="container">
+        <div class="item shrink-1 flex-grow1">A</div>
+        <div class="item shrink-2 flex-grow1">The generated</div>
+        <div class="item shrink-2 flex-grow1">C generated</div>
+        <div class="item shrink-3 flex-grow1">D</div>
+    </div>
+</body>
+</html>
