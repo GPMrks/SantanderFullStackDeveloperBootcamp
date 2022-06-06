@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    border: 1px solid black;
+    max-width: 400px;
+    margin-bottom: 10px;
+}
+
+.item {
+    background-color: brown;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin: 5px;
+}
+
+.flex-1 {
+    flex: 1;
+    /* Grow = 1, Shrink = 1, Basis = 0 */
+}
+
+.width {
+    width: 200px;
+    /* min-width: 250px; */
+}
+
+.flex-2 {
+    flex: 2;
+    /* Grow = 2, Shrink = 1, Basis = 0 */
+}

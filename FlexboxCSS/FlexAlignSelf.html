@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - Align Self</title>
+    <link rel="stylesheet" href="flexAlignSelf.css">
+</head>
+
+<h2>Flex Direction : Row</h2>
+
+<body>
+    <section class="container align-container">
+        <div class="item auto">AAA</div>
+        <div class="item auto">123</div>
+        <div class="item auto">Lorem Ipsum is therefore always free from repetition</div>
+        <div class="item auto">ITEM 4</div>
+    </section>
+
+    <section class="container">
+        <div class="item align-self-center">AAA</div>
+        <div class="item align-self-start">123</div>
+        <div class="item stretch">Lorem Ipsum is therefore always free from repetition</div>
+        <div class="item align-self-end">ITEM 4</div>
+    </section>
+
+    <section class="container">
+        <div class="item align-self-center">AAA</div>
+        <div class="item align-self-start">AAAAAAAAA</div>
+        <div class="item align-self-end">AAAAAAAAAAAA</div>
+        <div class="item stretch">Lorem Ipsum is therefore always free from repetition</div>
+    </section>
+
+    <h2>Flex Direction : Column</h2>
+
+<body>
+    <section class="container align-container column">
+        <div class="item auto">AAA</div>
+        <div class="item auto">123</div>
+        <div class="item auto">Lorem Ipsum is therefore always free from repetition</div>
+        <div class="item auto">ITEM 4</div>
+    </section>
+
+    <section class="container column">
+        <div class="item align-self-center">AAA</div>
+        <div class="item align-self-start">123</div>
+        <div class="item stretch">Lorem Ipsum is therefore always free from repetition</div>
+        <div class="item align-self-end">ITEM 4</div>
+    </section>
+
+    <section class="container column">
+        <div class="item align-self-center">AAA</div>
+        <div class="item align-self-start">AAAAAAAAA</div>
+        <div class="item align-self-end">AAAAAAAAAAAA</div>
+        <div class="item stretch">Lorem Ipsum is therefore always free from repetition</div>
+    </section>
+</body>
+
+</html>

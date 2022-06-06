@@ -47,6 +47,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/ba6c22a0-f55d-4968-a89b-d11eaf4db7c6.png" alt="Imagem do bootcamp Posicionando elementos com Flexbox em CSS" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Posicionando elementos com Flexbox em CSS</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/4569e5fb-cf31-4492-963e-9d71a552a131.png" alt="Imagem do bootcamp Recriando a página inicial do Instagram" width="50"></td>
