@@ -53,6 +53,7 @@
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/4569e5fb-cf31-4492-963e-9d71a552a131.png" alt="Imagem do bootcamp Recriando a página inicial do Instagram" width="50"></td>
     <td><b>Desafio de Projeto</b></td>
     <td><b>Recriando a página inicial do Instagram</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" alt="Imagem do bootcamp Introdução ao JavaScript" width="50"></td>
