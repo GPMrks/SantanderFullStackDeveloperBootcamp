@@ -59,6 +59,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" alt="Imagem do bootcamp Introdução ao JavaScript" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Introdução ao JavaScript</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/22efbe24-6719-4210-a850-935468e140d4.png" alt="Imagem do bootcamp Sintaxe e Operadores" width="50"></td>
