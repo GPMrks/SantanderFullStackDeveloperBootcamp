@@ -67,39 +67,39 @@
     <td><b>Sintaxe e Operadores</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/881a50c9-351e-4cf0-86d4-3ca6ac4a7d22.png" alt="Imagem do bootcamp Explorando Padrões de Projetos na Prática com Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/881a50c9-351e-4cf0-86d4-3ca6ac4a7d22.png" alt="Imagem do bootcamp Variáveis e Tipos" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Explorando Padrões de Projetos na Prática com Java</b></td>
+    <td><b>Variáveis e Tipos</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/355ab077-57cd-4860-b385-7afaa497a77c.png" alt="Imagem do bootcamp Tratamento de Exceções em Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/355ab077-57cd-4860-b385-7afaa497a77c.png" alt="Imagem do bootcamp Funções" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Tratamento de Exceções em Java</b></td>
+    <td><b>Funções</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/cab4019d-2f3d-429b-9af1-2beeaa1be843.png" alt="Imagem do bootcamp Debugging Java" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/cab4019d-2f3d-429b-9af1-2beeaa1be843.png" alt="Imagem do bootcamp Coleções" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Debugging Java</b></td>
+    <td><b>Coleções</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/1c6d2471-f842-4400-9298-b81d7ee463c6.png" alt="Imagem do bootcamp Programação Orientada a Objetos" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/1c6d2471-f842-4400-9298-b81d7ee463c6.png" alt="Imagem do bootcamp Map, Filter e Reduce" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Programação Orientada a Objetos</b></td>
+    <td><b>Map, Filter e Reduce</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/cba47ac6-ff1e-4159-a59c-751120bc81b4.png" alt="Imagem do bootcamp Desafios Iniciais Java - Santander Fullstack Developer" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/cba47ac6-ff1e-4159-a59c-751120bc81b4.png" alt="Imagem do bootcamp Debugging e Error Handling" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Desafios Iniciais Java - Santander Fullstack Developer</b></td>
+    <td><b>Debugging e Error Handling</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/31a216bf-83e4-4af1-a310-fe79d01cec34.png" alt="Imagem do bootcamp Criando um Banco Digital com Java e Orientação a Objetos" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/31a216bf-83e4-4af1-a310-fe79d01cec34.png" alt="Imagem do bootcamp Javascript Assíncrono" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Criando um Banco Digital com Java e Orientação a Objetos</b></td>
+    <td><b>Javascript Assíncrono</b></td>
   </tr>
   <tr>
-    <td><img src="https://hermes.digitalinnovation.one/courses/badge/cb22d386-980a-4cc8-ab3f-8cc0f8839077.png" alt="Imagem do bootcamp Como criar um front-end de um e-commerce utilizando Angular" width="50"></td>
+    <td><img src="https://hermes.digitalinnovation.one/courses/badge/cb22d386-980a-4cc8-ab3f-8cc0f8839077.png" alt="Imagem do bootcamp Orientação a objetos" width="50"></td>
     <td><b>Curso</b></td>
-    <td><b>Como criar um front-end de um e-commerce utilizando Angular</b></td>
+    <td><b>Orientação a objetos</b></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/4569e5fb-cf31-4492-963e-9d71a552a131.png" alt="Imagem do bootcamp Desafios Iniciais Js - Santander Fullstack Developer" width="50"></td>
