@@ -65,6 +65,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/22efbe24-6719-4210-a850-935468e140d4.png" alt="Imagem do bootcamp Sintaxe e Operadores" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Sintaxe e Operadores</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/881a50c9-351e-4cf0-86d4-3ca6ac4a7d22.png" alt="Imagem do bootcamp Variáveis e Tipos" width="50"></td>
