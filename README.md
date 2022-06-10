@@ -83,6 +83,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/cab4019d-2f3d-429b-9af1-2beeaa1be843.png" alt="Imagem do bootcamp Coleções" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Coleções</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/1c6d2471-f842-4400-9298-b81d7ee463c6.png" alt="Imagem do bootcamp Map, Filter e Reduce" width="50"></td>
