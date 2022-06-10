@@ -77,6 +77,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/355ab077-57cd-4860-b385-7afaa497a77c.png" alt="Imagem do bootcamp Funções" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Funções</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/cab4019d-2f3d-429b-9af1-2beeaa1be843.png" alt="Imagem do bootcamp Coleções" width="50"></td>
