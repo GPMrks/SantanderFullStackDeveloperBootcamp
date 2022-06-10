@@ -71,6 +71,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/881a50c9-351e-4cf0-86d4-3ca6ac4a7d22.png" alt="Imagem do bootcamp Variáveis e Tipos" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Variáveis e Tipos</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/355ab077-57cd-4860-b385-7afaa497a77c.png" alt="Imagem do bootcamp Funções" width="50"></td>
