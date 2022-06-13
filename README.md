@@ -95,6 +95,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/cba47ac6-ff1e-4159-a59c-751120bc81b4.png" alt="Imagem do bootcamp Debugging e Error Handling" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Debugging e Error Handling</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/31a216bf-83e4-4af1-a310-fe79d01cec34.png" alt="Imagem do bootcamp Javascript Assíncrono" width="50"></td>
