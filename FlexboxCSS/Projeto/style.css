@@ -125,20 +125,18 @@ header .menu {
 
 #servicos {
     flex-direction: column;
-    padding-top: 50px;
-    padding-bottom: 100px;
+    padding: 75px 0;
 }
 
 #servicos h2 {
     color: white;
     font-size: 32px;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 
 .list-servicos {
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
 }
 
 .list-servicos .item-servico {
@@ -150,13 +148,13 @@ header .menu {
     color: #122a57;
     text-align: center;
     border-radius: 30px;
-    padding: 10px 40px 10px 40px;
+    padding: 10px 20px 10px 20px;
     text-decoration: none;
     width: 120px;
-    display: block;
-    margin-top: 20px;
+    margin: 50px;
     font-size: 15px;
     font-weight: 700;
+    line-height: 90px;
 }
 
 .item-servico p {
@@ -167,8 +165,8 @@ header .menu {
 }
 
 .item-servico img {
-    width: 80%;
-
+    width: 70%;
+    margin: auto;
 }
 
 #planos {
