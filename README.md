@@ -89,6 +89,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/1c6d2471-f842-4400-9298-b81d7ee463c6.png" alt="Imagem do bootcamp Map, Filter e Reduce" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Map, Filter e Reduce</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/cba47ac6-ff1e-4159-a59c-751120bc81b4.png" alt="Imagem do bootcamp Debugging e Error Handling" width="50"></td>
