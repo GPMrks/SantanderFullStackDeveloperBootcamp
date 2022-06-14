@@ -107,6 +107,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/cb22d386-980a-4cc8-ab3f-8cc0f8839077.png" alt="Imagem do bootcamp Orientação a objetos" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Orientação a objetos</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/4569e5fb-cf31-4492-963e-9d71a552a131.png" alt="Imagem do bootcamp Desafios Iniciais Js - Santander Fullstack Developer" width="50"></td>
