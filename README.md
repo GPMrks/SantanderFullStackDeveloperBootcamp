@@ -101,6 +101,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/31a216bf-83e4-4af1-a310-fe79d01cec34.png" alt="Imagem do bootcamp Javascript Assíncrono" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Javascript Assíncrono</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/cb22d386-980a-4cc8-ab3f-8cc0f8839077.png" alt="Imagem do bootcamp Orientação a objetos" width="50"></td>
