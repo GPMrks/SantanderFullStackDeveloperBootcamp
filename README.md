@@ -119,6 +119,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/045adfdb-c96f-44fe-b78d-8302a99bcb8c.png" alt="Imagem do bootcamp Trabalhando com Módulos em JavaScript" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Trabalhando com Módulos em JavaScript</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/eafa16b1-7789-4006-b63f-b7159d24e255.png" alt="Imagem do bootcamp Manipulando a D.O.M. com JavaScript" width="50"></td>
