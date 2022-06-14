@@ -112,7 +112,8 @@
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/4569e5fb-cf31-4492-963e-9d71a552a131.png" alt="Imagem do bootcamp Desafios Iniciais Js - Santander Fullstack Developer" width="50"></td>
     <td><b>Desafio de Projeto</b></td>
-    <td><b>Desafios Iniciais Js - Santander Fullstack Develpoer</b></td>
+    <td><b>Desafios Iniciais Js - Santander Fullstack Developer</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/045adfdb-c96f-44fe-b78d-8302a99bcb8c.png" alt="Imagem do bootcamp Trabalhando com Módulos em JavaScript" width="50"></td>
