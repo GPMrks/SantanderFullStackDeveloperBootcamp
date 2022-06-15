@@ -125,6 +125,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/eafa16b1-7789-4006-b63f-b7159d24e255.png" alt="Imagem do bootcamp Manipulando a D.O.M. com JavaScript" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Manipulando a D.O.M. com JavaScript</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/1f501ba8-efdb-40e3-8b95-a421d7fdcf03.png" alt="Imagem do bootcamp Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces" width="50"></td>
