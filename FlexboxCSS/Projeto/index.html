@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flex Turismos</title>
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
 <body>
-    <header>
+    <header id="headerFlex">
         <div class="flex-container menu">
             <div>
                 <h1>FlexTurismos</h1>
@@ -18,19 +18,20 @@
                 <li><a href="#quem-somos">Quem Somos</a></li>
                 <li><a href="#servicos">Serviços</a></li>
                 <li><a href="#planos">Planos</a></li>
+                <li><button aria-label="selecionar-modo" id="mode-selector">Modo Escuro</button></li>
             </ul>
         </div>
     </header>
 
     <div class="flex-container apresentacao">
         <div class="texto-apresentacao">
-            <h1>Flex <br>Turismos</h1>
+            <h1 id="flexturismo">Flex <br>Turismos</h1>
             <p>O melhor serviço para você!</p>
-            <a href="">Saiba Mais!</a>
+            <a href="" class="saiba-mais">Saiba Mais!</a>
         </div>
 
         <div>
-            <div><img src="./images/0-main.png" alt="banner de apresentação"></div>
+            <div id="travel"><img src="./images/travel-ticket.png" alt="banner de apresentação"></div>
         </div>
     </div>
 
@@ -43,8 +44,8 @@
                 to using 'Content here, content here', making it look like readable English.</p>
         </div>
 
-        <div>
-            <img src="./images/1-quem-somos.png" alt="balcão de atendimento">
+        <div id="travel2">
+            <img src="./images/travel-ticket2.png" alt="balcão de atendimento">
         </div>
     </div>
 
@@ -88,7 +89,7 @@
                     <li>Serviços de quarto</li>
                     <li>Guia turístico</li>
                 </ul>
-                <a href="#" class="btn">Saiba Mais!</a>
+                <a href="#" class="btn saiba-mais">Saiba Mais!</a>
             </div>
 
             <div class="item-plano">
@@ -99,7 +100,7 @@
                     <li>Guia turístico</li>
                     <li>Roteiro de trilhas</li>
                 </ul>
-                <a href="#" class="btn">Saiba Mais!</a>
+                <a href="#" class="btn saiba-mais">Saiba Mais!</a>
             </div>
 
             <div class="item-plano">
@@ -111,7 +112,7 @@
                     <li>Roteiro de trilhas</li>
                     <li>Serviço personalizado</li>
                 </ul>
-                <a href="#" class="btn">Saiba Mais!</a>
+                <a href="#" class="btn saiba-mais">Saiba Mais!</a>
             </div>
         </div>
 
@@ -123,6 +124,7 @@
             <p>Desenvolvido por: Guilherme Marques</p>
         </div> 
     </footer>
+    <script src="assets/js/scripts.js"></script>
 </body>
 
 </html>

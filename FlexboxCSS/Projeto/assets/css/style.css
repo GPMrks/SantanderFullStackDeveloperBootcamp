@@ -19,6 +19,16 @@ div img {
     width: 100%;
 }
 
+#travel {
+    width: 400px;
+    margin-right: 50px;
+}
+
+#travel2 {
+    width: 400px;
+    margin-right: 50px;
+}
+
 .flex-container {
     display: flex;
     max-width: 55%;
@@ -36,16 +46,49 @@ header {
     color: #fff;
 }
 
+#headerFlex.dark-mode {
+    background-color: #000000;
+}
+
 header .list-items {
     display: flex;
     width: 100%;
-    max-width: 260px;
+    max-width: 400px;
     justify-content: space-between;
     align-items: center;
 }
 
 header .menu {
     justify-content: space-between;
+}
+
+#mode-selector {
+	border-radius: 40px;
+	height: 30px;
+	width: 100px;
+	border: none;
+	background-color: #4e545c;
+	color: #e5e8e8;
+	transition: all 0.5s linear;
+}
+
+#mode-selector:hover {
+	background-color: #000401;
+}
+
+#mode-selector.dark-mode {
+	background-color: #e5e8e8;
+	color: #4e545c;
+}
+
+#mode-selector.dark-mode:hover {
+	background-color: #4e545c;
+	color: #e5e8e8;
+}
+
+body.dark-mode {
+	background-color: #4e545c;
+	color: #e5e8e8;
 }
 
 .list-items li a {
@@ -61,12 +104,22 @@ header .menu {
 .apresentacao .texto-apresentacao {
     min-height: 200px;
     width: 100%;
+    margin-left: 100px;
 }
 
 .texto-apresentacao h1 {
     color: #122a57;
     font-size: 48px;
     margin-bottom: 10px;
+}
+
+#flexturismo.dark-mode {
+    color: #fff;
+}
+
+.saiba-mais.dark-mode{
+    background-color: #fff;
+    color: #000;
 }
 
 .texto-apresentacao a {
@@ -98,6 +151,10 @@ header .menu {
     margin-bottom: 20px;
 }
 
+#quem-somos h2.dark-mode {
+    color: #fff;
+}
+
 #quem-somos h2::before {
     content: "";
     height: 50px;
@@ -105,6 +162,10 @@ header .menu {
     margin-right: 5px;
     background-color: #122a57;
     position: relative;
+}
+
+#quem-somos h2.dark-mode::before {
+    background-color: #fff;
 }
 
 #quem-somos p {
@@ -121,6 +182,10 @@ header .menu {
     background-color: #122a57;
     width: 100%;
     margin-top: 50px;
+}
+
+.container-externo.dark-mode{
+    background-color: #000;
 }
 
 #servicos {
@@ -202,6 +267,19 @@ header .menu {
     margin-top: 20px;
 }
 
+.item-plano.dark-mode {
+    border: 5px solid #fff;
+}
+
+.item-plano.dark-mode h3 {
+    color: #fff;
+}
+
+.item-plano.dark-mode h3::after {
+    background-color: #fff;
+}
+
+
 .item-plano h3::after {
     content: "";
     background-color: #122a57;
@@ -250,11 +328,19 @@ header .menu {
     margin-right: 5px;
 }
 
+.list-planos.dark-mode ul li::before {
+    background-color: #fff;
+}
+
 footer {
     background-color: #122a57;
     height: 70px;
     display: flex;
     align-items: center;
+}
+
+footer.dark-mode {
+    background-color: #000;
 }
 
 footer .footer {
@@ -272,10 +358,12 @@ footer .footer {
 
     .flex-container{
         flex-direction: column;
+        justify-content: center;
     }
 
     .apresentacao {
         flex-direction: column-reverse;
+        justify-content: center;
     }
 
     .apresentacao .texto-apresentacao {
@@ -289,6 +377,14 @@ footer .footer {
     #quem-somos img {
         min-width: 320px;
         margin: auto;
+    }
+
+    #travel {
+        display: none;
+    }
+
+    #travel2 {
+        display: none;
     }
 
     .list-servicos {
