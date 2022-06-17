@@ -14,10 +14,10 @@ Instalação do TypeScript em nivel global
 npm install -g typescript
 ```
 
-Instalação do Live Server para visualização em tempo real:
+Instalação do Lite Server para visualização em tempo real:
 
 ```
-npm install -g typescript
+npm install lite-server
 ```
 
 Execução do projeto com atualização de código em tempo real:
