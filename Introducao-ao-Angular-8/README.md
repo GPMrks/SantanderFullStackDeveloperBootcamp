@@ -24,7 +24,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Running Mock Server with Node
 
-Run `node serve.js` in the Servers folder. Navigate to http://localhost:3100/.
+Run `node serve.js` in the Servers folder. Navigate to `http://localhost:3100/`.
 
 ## Further help
 
