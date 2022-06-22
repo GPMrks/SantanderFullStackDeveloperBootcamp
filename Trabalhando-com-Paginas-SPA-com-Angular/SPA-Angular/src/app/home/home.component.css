@@ -1,0 +1,19 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.btn {
+    background: transparent;
+    border: none;
+    border-radius: 50%;
+    color: white;
+}
+
+table {
+    width: 50%;
+    margin: 10px;
+  }
+
+.btnPage {
+    margin: 20px 10px;
+}
