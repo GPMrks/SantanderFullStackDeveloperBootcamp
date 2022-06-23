@@ -1,71 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SPA com Angular</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SPA com Angular</title>
 </head>
+
 <body>
-    <mat-toolbar>
-        <button mat-icon-button class="example-icon btn" aria-label="Example icon-button with menu icon">
-            <mat-icon>menu</mat-icon>
-        </button>
-        <span>Single Page Application - Angular</span>
-        <span class="example-spacer"></span>
-        <button mat-icon-button class="example-icon favorite-icon btn" aria-label="Example icon-button with heart icon">
-            <mat-icon>favorite</mat-icon>
-        </button>
-        <button mat-icon-button class="example-icon btn" aria-label="Example icon-button with share icon">
-            <mat-icon>share</mat-icon>
-        </button>
-    </mat-toolbar>
+  <mat-toolbar>
+    <button mat-icon-button class="example-icon btn" aria-label="Example icon-button with menu icon">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <span>Single Page Application - Angular</span>
+    <span class="example-spacer"></span>
+    <button mat-icon-button class="example-icon favorite-icon btn" aria-label="Example icon-button with heart icon">
+      <mat-icon>favorite</mat-icon>
+    </button>
+    <button mat-icon-button class="example-icon btn" aria-label="Example icon-button with share icon">
+      <mat-icon>share</mat-icon>
+    </button>
+  </mat-toolbar>
 
-    <div>
-    
-        <SPA-alunos [valorInicial]="valor"></SPA-alunos>
-    
-        <button mat-raised-button (click)="mudarValor()" class="btnPage">Mudar Valor</button>
-        <button mat-raised-button (click)="reiniciarValor()" class="btnPage">Reiniciar Valor</button>
-        <button mat-raised-button (click)="exibirTabela()" class="btnPage">Exibir Tabela</button>
-        
-      </div>
-    
-      <table mat-table class="mat-elevation-z8" *ngIf="exibeTabela" [dataSource]="listaAlunos">
+  <div>
 
-        <!--- Note that these columns can be defined in any order.
+    <SPA-alunos [valorInicial]="valor"></SPA-alunos>
+
+    <button mat-raised-button (click)="mudarValor()" class="btnPage">Mudar Valor</button>
+    <button mat-raised-button (click)="reiniciarValor()" class="btnPage">Reiniciar Valor</button>
+    <button mat-raised-button (click)="exibirTabela()" class="btnPage">Exibir Tabela</button>
+
+  </div>
+
+  <table mat-table class="mat-elevation-z8" *ngIf="exibeTabela" [dataSource]="listaAlunos">
+
+    <!--- Note that these columns can be defined in any order.
               The actual rendered columns are set as a property on the row definition" -->
-      
-        <!-- Position Column -->
-        <ng-container matColumnDef="Nome">
-          <th mat-header-cell *matHeaderCellDef> Nome </th>
-          <td mat-cell *matCellDef="let aluno">{{ aluno.nome }}</td>
-        </ng-container>
-      
-        <!-- Name Column -->
-        <ng-container matColumnDef="Idade">
-          <th mat-header-cell *matHeaderCellDef> Idade </th>
-          <td mat-cell *matCellDef="let aluno">{{ aluno.idade }}</td>
-        </ng-container>
-      
-        <!-- Weight Column -->
-        <ng-container matColumnDef="E-mail">
-          <th mat-header-cell *matHeaderCellDef> E-mail </th>
-          <td mat-cell *matCellDef="let aluno">{{ aluno.email }}</td>
-        </ng-container>
-      
-        <!-- Symbol Column -->
-        <ng-container matColumnDef="Curso">
-          <th mat-header-cell *matHeaderCellDef> Curso </th>
-          <td mat-cell *matCellDef="let aluno">{{ aluno.curso }}</td>
-        </ng-container>
-      
-        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
-      </table>
-          
-      <SPA-professores></SPA-professores>
+
+    <!-- Position Column -->
+    <ng-container matColumnDef="Nome">
+      <th mat-header-cell *matHeaderCellDef> Nome </th>
+      <td mat-cell *matCellDef="let aluno">{{ aluno.nome }}</td>
+    </ng-container>
+
+    <!-- Name Column -->
+    <ng-container matColumnDef="Idade">
+      <td></td>
+      <th mat-header-cell *matHeaderCellDef> Idade </th>
+      <td mat-cell *matCellDef="let aluno">{{ aluno.idade }}</td>
+    </ng-container>
+
+    <!-- Weight Column -->
+    <ng-container matColumnDef="E-mail">
+      <th mat-header-cell *matHeaderCellDef> E-mail </th>
+      <td mat-cell *matCellDef="let aluno">{{ aluno.email }}</td>
+    </ng-container>
+
+    <!-- Symbol Column -->
+    <ng-container matColumnDef="Curso">
+      <th mat-header-cell *matHeaderCellDef> Curso </th>
+      <td mat-cell *matCellDef="let aluno">{{ aluno.curso }}</td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+
+  <SPA-professores></SPA-professores>
 
 </body>
-</html>
 
+<footer>
+  <mat-toolbar class="footer"> 
+    <div>
+      <label>Trabalhando com SPA com Angular</label>
+    </div>
+    <div>
+      <label>@ Desenvolvido por Guilherme Marques</label>
+    </div>
+  </mat-toolbar>
+</footer>
+
+</html>
