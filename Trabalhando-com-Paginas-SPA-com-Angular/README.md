@@ -1,5 +1,7 @@
 # Trabalhando com SPA com Angular
 
+Projeto hospedado no Netlify: https://spa-angular-netlify.netlify.app
+
 Criação de uma aplicação simples para rever os conceitos de Angular.
 
 Versões utilizadas nesse desenvolvimento:
