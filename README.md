@@ -162,7 +162,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/41dcd3b9-7031-4e5a-8849-02a81fd067b2.png" alt="Imagem do bootcamp A arquitetura de componentes e a gestão da complexidade no front-end" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>A arquitetura de componentes e a gestão da complexidade no front-end</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/a40dfe0f-d4fe-455f-9a69-9c7904237ec4.png" alt="Imagem do bootcamp Instalando e Preparando o Ambiente Angular" width="50"></td>
