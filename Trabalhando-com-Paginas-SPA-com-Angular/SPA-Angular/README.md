@@ -1,6 +1,6 @@
 # SPAAngular
 
-Site live on Netlify on: https://spa-angular-netlify.netlify.app/home
+Site live on Netlify on: https://spa-angular-netlify.netlify.app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
