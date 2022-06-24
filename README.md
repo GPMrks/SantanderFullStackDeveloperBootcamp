@@ -168,7 +168,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/a40dfe0f-d4fe-455f-9a69-9c7904237ec4.png" alt="Imagem do bootcamp Instalando e Preparando o Ambiente Angular" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Instalando e Preparando o Ambiente Angular</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/3d445527-b3fd-4a1a-a3d0-e891b16e5468.png" alt="Imagem do bootcamp Explorando Diretivas com Angular" width="50"></td>
