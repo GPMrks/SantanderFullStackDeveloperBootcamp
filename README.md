@@ -180,7 +180,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/e6daff4c-e474-4ea2-8aca-b31e8a48ea81.png" alt="Imagem do bootcamp Implementando Serviços e Injeção de Dependências com Angular" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Implementando Serviços e Injeção de Dependências com Angular</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/82af06f5-2de5-4cc0-b2c2-f560bf925e15.png" alt="Imagem do bootcamp Introdução a Serviços Assíncronos no Angular" width="50"></td>
