@@ -174,7 +174,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/3d445527-b3fd-4a1a-a3d0-e891b16e5468.png" alt="Imagem do bootcamp Explorando Diretivas com Angular" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Explorando Diretivas com Angular</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/e6daff4c-e474-4ea2-8aca-b31e8a48ea81.png" alt="Imagem do bootcamp Implementando Serviços e Injeção de Dependências com Angular" width="50"></td>
