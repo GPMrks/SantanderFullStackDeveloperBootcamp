@@ -186,31 +186,31 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/82af06f5-2de5-4cc0-b2c2-f560bf925e15.png" alt="Imagem do bootcamp Introdução a Serviços Assíncronos no Angular" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Introdução a Serviços Assíncronos no Angular</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/8c3a2589-dfb1-4d75-9b03-5eb51b778159.png" alt="Imagem do bootcamp O Poder do Data Binding no Angular" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>O Poder do Data Binding no Angular</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/d3bab3ca-0073-4540-9bd9-512c1a3513a2.png" alt="Imagem do bootcamp Trabalhando com Componentes em Angular" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Trabalhando com Componentes em Angular</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/6b04b50f-91a4-45e0-9a96-a1a02a5a4ebe.png" alt="Imagem do bootcamp Criação de Pipes com Angular" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Criação de Pipes com Angular</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/69905431-6266-48e8-8dc0-bb795229314b.png" alt="Imagem do bootcamp Desafios Intermediários Js - Santander Fullstack Developer" width="50"></td>
     <td><b>Desafio de Código</b></td>
     <td><b>Desafios Intermediários Js - Santander Fullstack Developer</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/lab_projects/badges/f07ad9a4-751c-436d-9419-e6321720679a.png" alt="Imagem do bootcamp Como criar um front-end de um e-commerce utilizando Angular" width="50"></td>
