@@ -216,7 +216,7 @@
     <td><img src="https://hermes.digitalinnovation.one/lab_projects/badges/f07ad9a4-751c-436d-9419-e6321720679a.png" alt="Imagem do bootcamp Como criar um front-end de um e-commerce utilizando Angular" width="50"></td>
     <td><b>Desafio de Projeto</b></td>
     <td><b>Como criar um front-end de um e-commerce utilizando Angular</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
 </table>
 
