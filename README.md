@@ -253,7 +253,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/13c775a2-cadb-43b9-83c6-9718d4417625.png" alt="Imagem do bootcamp Estruturas de Repetição e Arrays em Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Estruturas de Repetição e Arrays em Java</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/b6be69f1-9af6-4606-91ca-df0157834afe.png" alt="Imagem do bootcamp Trabalhando com Collections Java" width="50"></td>
