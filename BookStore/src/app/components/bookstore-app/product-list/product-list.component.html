@@ -1,0 +1,16 @@
+<div class="card shadow-sm d-inline-flex mx-2 align-items-center" style="width: 18rem;" *ngFor="let b of books">
+    <img [src]="b.img" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title"> {{ b.name }} </h5>
+      <p class="card-text"> {{ b.description }} </p>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">Category: {{ b.category }} </li>
+      <li class="list-group-item">Quantity: {{ b.quantity }} </li>
+      <li class="list-group-item"><h5> R${{ b.price }} </h5></li>
+    </ul>
+    <div class="card-body">
+      <button href="#" class="btn btn-primary mx-2">Buy</button>
+      <button href="#" class="btn btn-outline-primary mx-2">Details</button>
+    </div>
+  </div>
