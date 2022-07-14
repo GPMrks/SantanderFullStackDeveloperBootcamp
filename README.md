@@ -229,56 +229,67 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/6c201cba-ff90-4a8e-8b08-77ec0ddcffe1.png" alt="Imagem do bootcamp Dominando IDEs Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Dominando IDEs Java</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/f6876045-9350-4b83-af75-b455fd437d13.png" alt="Imagem do bootcamp Variáveis, Tipos de Dados e Operadores Matemáticos em Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Variáveis, Tipos de Dados e Operadores Matemáticos em Java</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/ca2d2b97-c1a6-40bc-b396-40896efb40f3.png" alt="Imagem do bootcamp Entendendo Métodos Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Entendendo Métodos Java</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/0559b377-9f25-43a0-8e94-02b99b53216e.png" alt="Imagem do bootcamp Lógica Condicional e Controle de Fluxos em Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Lógica Condicional e Controle de Fluxos em Java</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/13c775a2-cadb-43b9-83c6-9718d4417625.png" alt="Imagem do bootcamp Estruturas de Repetição e Arrays em Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Estruturas de Repetição e Arrays em Java</b></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/b6be69f1-9af6-4606-91ca-df0157834afe.png" alt="Imagem do bootcamp Trabalhando com Collections Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Trabalhando com Collections Java</b></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/209896ec-db64-4685-8a0a-65862647c676.png" alt="Imagem do bootcamp Tratamento de Exceções em Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Tratamento de Exceções em Java</b></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/9b77ce43-f8b4-499d-afb5-6d3b6e6cfb11.png" alt="Imagem do bootcamp Debugging Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Debugging Java</b></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/082b60cb-8118-4ca7-a861-24ce54fdef21.png" alt="Imagem do bootcamp Programação Orientada a Objetos" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Programação Orientada a Objetos</b></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/f5b9a4d5-457e-49f9-9104-442929a3fc0d.png" alt="Imagem do bootcamp Desafios Iniciais Java - Santander Fullstack Developer" width="50"></td>
     <td><b>Desafio de Código</b></td>
     <td><b>Desafios Iniciais Java - Santander Fullstack Developer</b></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/lab_projects/badges/bbd24b61-a476-4da2-90dd-6544e72c970c.png" alt="Imagem do bootcamp Criando um Banco Digital com Java e Orientação a Objetos" width="50"></td>
     <td><b>Desafio de Projeto</b></td>
     <td><b>Criando um Banco Digital com Java e Orientação a Objetos</b></td>
+    <td></td>
   </tr>
 </table>
 
