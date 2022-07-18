@@ -259,7 +259,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/b6be69f1-9af6-4606-91ca-df0157834afe.png" alt="Imagem do bootcamp Trabalhando com Collections Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Trabalhando com Collections Java</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/209896ec-db64-4685-8a0a-65862647c676.png" alt="Imagem do bootcamp Tratamento de Exceções em Java" width="50"></td>
