@@ -302,30 +302,36 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/995e9d14-99e8-4879-b978-b1d961f3ad88.png" alt="Imagem do bootcamp Conhecendo os Principais Protocolos de Comunicação da Internet" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Conhecendo os Principais Protocolos de Comunicação da Internet</b></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/1dcc883a-37fa-42a9-a2a1-1cf012ffb34e.png" alt="Imagem do bootcamp Introdução ao framework Spring Boot" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Introdução ao framework Spring Boot</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/53b3769f-668b-4eb3-8c25-86d59d6a0f87.png" alt="Imagem do bootcamp Imersão no Spring Framework com Spring Boot" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Imersão no Spring Framework com Spring Boot</b></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/c76372f9-1b3e-4f58-8cc1-d57e3b33b4d6.png" alt="Imagem do bootcamp Adicionando Segurança a uma API REST com Spring Security" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Adicionando Segurança a uma API REST com Spring Security</b></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/92d879d5-7de3-44aa-a8a4-4e144cc565c1.png" alt="Imagem do bootcamp Desafios Intermediários Java - Santander Fullstack Developer" width="50"></td>
     <td><b>Desafio de Código</b></td>
-    <td>✅<b>Desafios Intermediários Java - Santander Fullstack Developer</b></td>
+    <td><b>Desafios Intermediários Java - Santander Fullstack Developer</b></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/lab_projects/badges/596aa9d8-34c0-4369-bb27-d2f00347f45e.png" alt="Imagem do bootcamp Explorando Padrões de Projetos na Prática com Java" width="50"></td>
     <td><b>Desafio de Projeto</b></td>
     <td><b>Explorando Padrões de Projetos na Prática com Java</b></td>
+    <td></td>
   </tr>
 </table>
