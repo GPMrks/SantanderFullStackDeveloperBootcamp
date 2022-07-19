@@ -265,7 +265,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/209896ec-db64-4685-8a0a-65862647c676.png" alt="Imagem do bootcamp Tratamento de Exceções em Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Tratamento de Exceções em Java</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/9b77ce43-f8b4-499d-afb5-6d3b6e6cfb11.png" alt="Imagem do bootcamp Debugging Java" width="50"></td>
