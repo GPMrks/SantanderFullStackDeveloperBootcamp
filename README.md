@@ -283,7 +283,7 @@
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/f5b9a4d5-457e-49f9-9104-442929a3fc0d.png" alt="Imagem do bootcamp Desafios Iniciais Java - Santander Fullstack Developer" width="50"></td>
     <td><b>Desafio de Código</b></td>
     <td><b>Desafios Iniciais Java - Santander Fullstack Developer</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/lab_projects/badges/bbd24b61-a476-4da2-90dd-6544e72c970c.png" alt="Imagem do bootcamp Criando um Banco Digital com Java e Orientação a Objetos" width="50"></td>
@@ -321,7 +321,7 @@
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/92d879d5-7de3-44aa-a8a4-4e144cc565c1.png" alt="Imagem do bootcamp Desafios Intermediários Java - Santander Fullstack Developer" width="50"></td>
     <td><b>Desafio de Código</b></td>
-    <td><b>Desafios Intermediários Java - Santander Fullstack Developer</b></td>
+    <td>✅<b>Desafios Intermediários Java - Santander Fullstack Developer</b></td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/lab_projects/badges/596aa9d8-34c0-4369-bb27-d2f00347f45e.png" alt="Imagem do bootcamp Explorando Padrões de Projetos na Prática com Java" width="50"></td>
