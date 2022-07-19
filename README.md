@@ -271,7 +271,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/9b77ce43-f8b4-499d-afb5-6d3b6e6cfb11.png" alt="Imagem do bootcamp Debugging Java" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Debugging Java</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/082b60cb-8118-4ca7-a861-24ce54fdef21.png" alt="Imagem do bootcamp Programação Orientada a Objetos" width="50"></td>
