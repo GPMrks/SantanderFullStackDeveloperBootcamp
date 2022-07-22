@@ -277,7 +277,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/082b60cb-8118-4ca7-a861-24ce54fdef21.png" alt="Imagem do bootcamp Programação Orientada a Objetos" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Programação Orientada a Objetos</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/f5b9a4d5-457e-49f9-9104-442929a3fc0d.png" alt="Imagem do bootcamp Desafios Iniciais Java - Santander Fullstack Developer" width="50"></td>
