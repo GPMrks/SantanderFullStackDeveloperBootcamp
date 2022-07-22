@@ -289,7 +289,7 @@
     <td><img src="https://hermes.digitalinnovation.one/lab_projects/badges/bbd24b61-a476-4da2-90dd-6544e72c970c.png" alt="Imagem do bootcamp Criando um Banco Digital com Java e Orientação a Objetos" width="50"></td>
     <td><b>Desafio de Projeto</b></td>
     <td><b>Criando um Banco Digital com Java e Orientação a Objetos</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
 </table>
 
