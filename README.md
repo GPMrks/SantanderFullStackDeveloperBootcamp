@@ -314,7 +314,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/53b3769f-668b-4eb3-8c25-86d59d6a0f87.png" alt="Imagem do bootcamp Imersão no Spring Framework com Spring Boot" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Imersão no Spring Framework com Spring Boot</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/c76372f9-1b3e-4f58-8cc1-d57e3b33b4d6.png" alt="Imagem do bootcamp Adicionando Segurança a uma API REST com Spring Security" width="50"></td>
