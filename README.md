@@ -302,7 +302,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/995e9d14-99e8-4879-b978-b1d961f3ad88.png" alt="Imagem do bootcamp Conhecendo os Principais Protocolos de Comunicação da Internet" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Conhecendo os Principais Protocolos de Comunicação da Internet</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/1dcc883a-37fa-42a9-a2a1-1cf012ffb34e.png" alt="Imagem do bootcamp Introdução ao framework Spring Boot" width="50"></td>
