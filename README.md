@@ -320,7 +320,7 @@
     <td><img src="https://hermes.digitalinnovation.one/courses/badge/c76372f9-1b3e-4f58-8cc1-d57e3b33b4d6.png" alt="Imagem do bootcamp Adicionando Segurança a uma API REST com Spring Security" width="50"></td>
     <td><b>Curso</b></td>
     <td><b>Adicionando Segurança a uma API REST com Spring Security</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td><img src="https://hermes.digitalinnovation.one/code_challenge/badge/92d879d5-7de3-44aa-a8a4-4e144cc565c1.png" alt="Imagem do bootcamp Desafios Intermediários Java - Santander Fullstack Developer" width="50"></td>
