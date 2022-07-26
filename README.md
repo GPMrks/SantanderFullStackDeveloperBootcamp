@@ -332,6 +332,6 @@
     <td><img src="https://hermes.digitalinnovation.one/lab_projects/badges/596aa9d8-34c0-4369-bb27-d2f00347f45e.png" alt="Imagem do bootcamp Explorando Padrões de Projetos na Prática com Java" width="50"></td>
     <td><b>Desafio de Projeto</b></td>
     <td><b>Explorando Padrões de Projetos na Prática com Java</b></td>
-    <td></td>
+    <td>✅</td>
   </tr>
 </table>
